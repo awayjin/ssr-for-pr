@@ -13,7 +13,7 @@ const pageConfigs = [
   },
   {
     name: "about",
-    regExp: /^\/about\//
+    regExp: /^\/about/
   }
 ];
 
